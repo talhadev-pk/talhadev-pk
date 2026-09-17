@@ -1,60 +1,92 @@
-# Hi, I'm Malik Talha Awan 👋
+<div align="center">
+  
+  # Malik Talha Awan
+  
+  **Web & Software Developer** | Building modern web applications, custom software, and intelligent systems
+  
+  <p>
+    <a href="mailto:talha.sagheer.work@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://wa.me/923077251905">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+    </a>
+    <img src="https://img.shields.io/badge/Pakistan-006600?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Location" />
+  </p>
 
-**Web & Software Developer building modern websites, custom software, and AI-powered applications.**
-
----
-
-### 🚀 About Me
-
-- 💻 **Core Tech Focus:** Full-Stack Web Development, Custom Software Tools, and AI Applications.
-- 🔧 **System Fundamentals:** Strong background in Computer Science, System Diagnostics, PC/Mobile Hardware, and Network Configuration.
-- 🎨 **Digital Design:** Experienced in Adobe Creative Suite for UI assets, media, and digital branding.
-- 📊 **Data & Automation:** Hands-on experience with Python scripting, data entry, and structured reporting.
-
----
-
-### 🛠 Tech Stack & Toolkit
-
-**Languages & Web Technologies**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-**Tools & Environment**
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe_Creative_Cloud-DA1F26?style=for-the-badge&logo=adobe-creative-cloud&logoColor=white)
+</div>
 
 ---
 
-### 📊 GitHub Activity & Stats
+## 🚀 About Me
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=talhadev-pk&show_icons=true&theme=dark&hide_border=true" alt="Talha's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=talhadev-pk&layout=compact&theme=dark&hide_border=true" alt="Top Languages" width="48%" />
-</p>
+I build web applications and software tools. I focus on writing clean, maintainable code that solves real problems.
+
+**Technical foundation:** Computer Science fundamentals, system diagnostics, and network configuration. I understand how systems work at multiple levels — from hardware troubleshooting to software architecture.
+
+**Tools & expertise:** Full-stack web development, Python scripting, data workflows, and Adobe Creative Suite for UI/UX assets. I've worked across the stack — frontend to backend, design to deployment.
+
+**Track record:** Started in technical repair roles, advanced rapidly into operations and software work. Promoted from junior roles to management at HFC Restaurant within weeks. All past employers requested return. Now focusing entirely on web development, software engineering, and AI-powered applications.
 
 ---
 
-### 📬 Connect with Me
+## 🛠 Tech Stack
 
-- ✉️ **Email:** [talha.sagheer.work@gmail.com](mailto:talha.sagheer.work@gmail.com)
-- 📞 **WhatsApp:** [+92 307 7251905](https://wa.me/923077251905)
-- 📍 **Location:** Pakistan## Hi there 👋
+| **Category** | **Technologies** |
+|---|---|
+| **Languages** | HTML5, CSS3, JavaScript, Python |
+| **Frontend** | Responsive Design, DOM Manipulation, Modern JavaScript |
+| **Backend** | Python Scripting, Data Workflows, System Automation |
+| **Tools & Platforms** | Git, GitHub, VS Code, Adobe Creative Suite |
+| **Systems** | PC/Mobile Hardware Diagnostics, Network Configuration, Linux Fundamentals |
 
-<!--
-**talhadev-pk/talhadev-pk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🎯 Core Strengths
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Problem Solver** – Analyze complex technical issues and implement reliable solutions
+- **Fast Learner** – Adapt quickly to new technologies and frameworks
+- **Full-Stack Thinking** – Understand systems from hardware to frontend, making better architectural decisions
+- **Communications** – Explain technical concepts clearly in documentation and code
+- **Quality-Focused** – Write code meant to be read and maintained, not just executed
+
+---
+
+## 📊 Stats & Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhadev-pk&show_icons=true&theme=transparent&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhadev-pk&layout=compact&theme=transparent&hide_border=true)
+
+</div>
+
+---
+
+## 🔗 Let's Connect
+
+| Platform | Link |
+|---|---|
+| **Email** | [talha.sagheer.work@gmail.com](mailto:talha.sagheer.work@gmail.com) |
+| **WhatsApp** | [+92 307 7251905](https://wa.me/923077251905) |
+| **GitHub** | [@talhadev-pk](https://github.com/talhadev-pk) |
+
+---
+
+## 📚 Currently Learning
+
+- Full-stack modern web frameworks
+- Advanced Python and automation
+- AI systems and machine learning fundamentals
+- System design and scalability
+
+**Available for:** Contract work, freelance projects, and full-time roles.
+
+---
+
+<div align="center">
+  
+  Made by Malik Talha Awan. Built with care.
+  
+</div>
