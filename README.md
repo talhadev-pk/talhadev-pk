@@ -52,15 +52,19 @@ I build web applications and software tools. I focus on writing clean, maintaina
 
 ---
 
-## 📊 Stats & Activity
+## 📊 GitHub Stats & Activity
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=talhadev-pk&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="100%" />
+</p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=talhadev-pk&show_icons=true&theme=transparent&hide_border=true)
+---
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talhadev-pk&layout=compact&theme=transparent&hide_border=true)
+## 💻 Languages & Tools
 
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=talhadev-pk&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="100%" />
+</p>
 
 ---
 
