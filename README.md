@@ -168,28 +168,28 @@ Areas I am actively exploring through learning and project development:
 
 07 / LET'S CONNECT
 
-I welcome opportunities to collaborate, exchange ideas, discuss software projects and explore meaningful engineering challenges.
+I welcome opportunities to collaborate, discuss software projects, explore professional opportunities and build meaningful digital products.
 
 <div align="center"><a href="mailto:talha.sagheer.work@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-talha.sagheer.work%40gmail.com-DC2626?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Talha"/>
+  <img src="https://img.shields.io/badge/EMAIL-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
 </a><br/><br/>
 
-<a href="https://github.com/talhadev-pk">
+<a href="https://wa.me/923077251905">
+  <img src="https://img.shields.io/badge/WHATSAPP-Primary%20Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Primary WhatsApp"/>
+</a><br/><a href="https://wa.me/923203018094">
+  <img src="https://img.shields.io/badge/WHATSAPP-Alternative%20Contact-128C7E?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Alternative WhatsApp"/>
+</a><br/><br/>
+
+Email: talha.sagheer.work@gmail.com
+
+Primary WhatsApp: +92 307 7251905
+
+Alternative WhatsApp: +92 320 3018094
+
+<br/><a href="https://github.com/talhadev-pk">
   <img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a><br/><br/>
 
-Have an interesting idea? Let's build something meaningful.
+Have an interesting idea or professional opportunity? Let's connect.
 
-</div>---
-
-<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:111827,100:080B14&height=2&section=footer" width="100%" alt=""/><br/>ENGINEER WITH PURPOSE. BUILD WITH PRECISION.
-
-Made with ❤️ by Talha
-
-<sub>© 2026 Malik Talha Awan · Pakistan</sub>
-
-<br/><br/>
-
-<a href="https://github.com/talhadev-pk">
-  <img src="https://img.shields.io/badge/BACK%20TO%20PROFILE-0D1117?style=for-the-badge&logo=github&logoColor=60A5FA" alt="Back to GitHub profile"/>
-</a></div>
+</div>
